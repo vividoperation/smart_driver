@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853964630292",
+    "firebase_url": "https://smartdriver-74763.firebaseio.com",
+    "project_id": "smartdriver-74763",
+    "storage_bucket": "smartdriver-74763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853964630292:android:16768edd39c35a1499ba01",
+        "android_client_info": {
+          "package_name": "minghao.zhu.smartdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853964630292-3iljf8eo5s10onjd6it5a5trgfuee1dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "minghao.zhu.smartdriver",
+            "certificate_hash": "f5099980e5289f8a4fce177c1ca6dcca80853656"
+          }
+        },
+        {
+          "client_id": "853964630292-73d2h2otvgdf851sno5n1pr45r7oc157.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMi8Anov8rIqygfydsnIt_ePjkIDCSd-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853964630292-73d2h2otvgdf851sno5n1pr45r7oc157.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
